@@ -1,4 +1,4 @@
-# DTS Kominfo
+# Digital Talent Scholarship Kominfo
 FGA 2022
 
-Digitalent - Big Data Using Python
+Resource, Materi dan Kodingan dari workshop Digitalent - Big Data Using Python
